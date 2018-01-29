@@ -30,6 +30,7 @@
 * [W3Schools.com ~ JavaScript](https://www.w3schools.com/js/)
 * [MDN ~ Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [JavScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript vs PHP differences ~ Lullabot](https://www.lullabot.com/articles/learning-javascript-from-php-a-comparison)
 
 #### Länkar
 
