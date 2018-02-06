@@ -151,7 +151,7 @@ Du har följande HTML & JavaScript att arbeta med. Du får inte ändra i HTMLen 
 
 ```js
 //Put this in your main.js then work from there
-const article = document.getElementById('first');
+const article = document.getElementsById('first');
 //to change h2 for example
 article.firstElementChild.innerText = "I've changed!";
 
@@ -175,17 +175,12 @@ const p = document.createElement('p');
 const text = document.createTextNode('Satan va JavaScript är kul!');
 p.appendChild(text);
 div.appendChild(p);
-const body = document.getElementByTagName('body');
-//We have to get the first item in the array, even if there is only
-//one body tag, 'getElementByTagName' will always return an array
-const body = body[0];
-body.appendChild(div);
+document.body.appendChild(div);
 ```
 
 2.
 ```js
-const body = document.getElementByTagName('body')[0];
-body.innerHTML = "<div><p>Satan va JavaScript är kul!</p></div>";
+document.body.innerHTML = "<div><p>Satan va JavaScript är kul!</p></div>";
 ```
 
 3.
