@@ -67,6 +67,9 @@ __v.5__
 * [YDKJS ~ Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 * [YDKJS ~ Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
 
+---
+__v.6__
+
 #### Pass 2
 
 * DOM-manipulering
@@ -83,10 +86,6 @@ __v.5__
 
 * Scope & Context i JavaScript
 * `this` i samband med events och objekt
-* ES6 arrow function  `=>`
-
----
-__v.6__
 
 #### Pass 4
 
@@ -95,57 +94,62 @@ __v.6__
     * `console` är din bästa vän
     * `debugger;`
 
+---
+__v.7__
+
 #### Pass 5
 
 * Mer om DOM-manipulering
+* Mer om Context & Scope
+* ES6 arrow function  `=>`
 
 #### Pass 6
 
-* jQuery
+* jQuery equivalents
     * Shorthands
     * helper functions
-* *Dugga*
-
----
-__v.7__
+* Closures
 
 #### Pass 7
 
 * Animering i CSS & JavaScript
+* **Dugga i grundläggande JavaScript**
+
+
+---
+__v.8__
 
 #### Pass 8
 
 * Eventuell fördjupning
-* Handledning med inlämningsuppgiften
 
 #### Pass 9
 
 * Handledning med inlämningsuppgiften
 
+#### Pass 10
+
+* Handledning med inlämningsuppgiften
+
 ---
-__v.8__
+__v.9__
 
 ### `Block 3`
 
-#### Pass 10
+#### Pass 11
 
 * Asynkronitet i JavaScript
     * `setTimeout()` / `setInterval()`
 * Event loop kontra call stack
 * Hur JavaScript tolkas
 
-#### Pass 11
+#### Pass 12
 
 * API:er
  * Öppna API:er
  * Skillnad WebbAPI kontra API
 * REST: Representational State Transfer
 * `fetch()`
-
----
-__v.9__
-
-#### Pass 12
 
 * Promises & Callbacks
 * Kalla på publika API:er
