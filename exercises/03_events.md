@@ -108,7 +108,7 @@ button.addEventListener('click', function(){
 ### Övning 4 - Discofredag
 
 1. Gör så att varje gång du trycker på bakgrunden på sidan så ändras bakgrunden till en slumpmässig färg. Detta sker med eventet `click`.
-2. Gör så att varje gång du trycker på någon knapp på skrivbordet så ändras bakgrundsfärgen. Detta sker med eventet `keydown`eller `keyup`.
+2. Gör så att varje gång du trycker på någon knapp på tangentbordet så ändras bakgrundsfärgen. Detta sker med eventet `keydown`eller `keyup`.
 
 ### Övning 5 - Stryk mig!!
 
