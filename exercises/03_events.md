@@ -280,7 +280,7 @@ window.addEventListener('keyup', function(){
 ### Övning 5 - Stryk mig!!
 
 ```js
-const listItems = document.getElementById('li');
+const listItems = document.querySelectorAll('li');
 
 for(const item of listItems){
     item.addEventListener('click', function(){
@@ -294,7 +294,7 @@ for(const item of listItems){
 ```js
 const todo = document.getElementById('todo');
 const done = document.getElementById('done')
-const listItems = document.getElementById('li');
+const listItems = document.querySelectorAll('li');
 
 for(const item of listItems){
     item.addEventListener('click', function(){
