@@ -4,7 +4,7 @@
 
 ## Länkar
 
-* [You Don't Know JavaScript ~ Up And Goind](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
+* [You Don't Know JavaScript ~ Up And Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
 * [w3Schools.com - JavaScript](https://www.w3schools.com/js/)
 
 ## Innehåll

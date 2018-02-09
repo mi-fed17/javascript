@@ -94,6 +94,12 @@ __v.6__
     * `console` är din bästa vän
     * `debugger;`
 
+* [Google Developers ~  Debug JavaScript](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+* [Chrome Developers ~ Using the Console](https://developers.google.com/web/tools/chrome-devtools/console/)
+* [Leveraging the Power of the Javascript Console in Development](https://dev.to/worldclassdev/leveraging-the-power-of-the-javascript-console-in-development-24ap)
+* [Template Literals](https://css-tricks.com/template-literals/)
+* [`e.preventDefault()`](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+
 ---
 __v.7__
 
