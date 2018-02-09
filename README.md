@@ -114,9 +114,10 @@ __v.7__
 
 #### Pass 5
 
-* Mer om DOM-manipulering
-* Mer om Context & Scope
+* Mer om DOM-manipulering / Fördjupning i JavaScript
 * ES6 arrow function  `=>`
+* Context
+* `setTimeout` / `setInterval`
 
 #### Pass 6
 
@@ -124,6 +125,7 @@ __v.7__
     * Shorthands
     * helper functions
 * Closures
+* Mer om object & arrayer
 
 #### Pass 7
 
@@ -136,7 +138,7 @@ __v.8__
 
 #### Pass 8
 
-* Eventuell fördjupning
+* Eventuell fördjupning på de område smo behövs mer på
 
 #### Pass 9
 
