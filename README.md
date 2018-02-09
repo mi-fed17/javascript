@@ -77,7 +77,7 @@ __v.6__
     * DOM-navigering
 * Event-listeners
 
-##### länkar
+###### länkar
 
 * [Introduction to the DOM ~ MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [JavaScript DOM Manipulation Methods ~ Plainjs.com](https://plainjs.com/javascript/manipulation/)
@@ -87,6 +87,12 @@ __v.6__
 * Scope & Context i JavaScript
 * `this` i samband med events och objekt
 
+###### Länkar
+
+* [The Javascript Guide to Objects, Functions, Scope, Prototypes and Closures](http://hangar.runway7.net/javascript/guide)
+* [Scope & Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+* [Understanding `this` in JavaScript](http://unschooled.org/2012/03/understanding-javascript-this/)
+
 #### Pass 4
 
 * Felsökning
@@ -94,8 +100,11 @@ __v.6__
     * `console` är din bästa vän
     * `debugger;`
 
-* [Google Developers ~  Debug JavaScript](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-* [Chrome Developers ~ Using the Console](https://developers.google.com/web/tools/chrome-devtools/console/)
+###### Länkar
+
+* [Debug JavaScript  Google Developers](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+* [Using the Console ~ Chrome Developers](https://developers.google.com/web/tools/chrome-devtools/console/)
+* [Styling output with CSS ~ Chrome Developers](https://developers.google.com/web/tools/chrome-devtools/console/console-write#styling_console_output_with_css)
 * [Leveraging the Power of the Javascript Console in Development](https://dev.to/worldclassdev/leveraging-the-power-of-the-javascript-console-in-development-24ap)
 * [Template Literals](https://css-tricks.com/template-literals/)
 * [`e.preventDefault()`](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
