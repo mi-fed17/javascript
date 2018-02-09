@@ -106,7 +106,6 @@ __v.6__
 * [Using the Console ~ Chrome Developers](https://developers.google.com/web/tools/chrome-devtools/console/)
 * [Styling output with CSS ~ Chrome Developers](https://developers.google.com/web/tools/chrome-devtools/console/console-write#styling_console_output_with_css)
 * [Leveraging the Power of the Javascript Console in Development](https://dev.to/worldclassdev/leveraging-the-power-of-the-javascript-console-in-development-24ap)
-* [Template Literals](https://css-tricks.com/template-literals/)
 * [`e.preventDefault()`](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 
 ---
@@ -115,9 +114,19 @@ __v.7__
 #### Pass 5
 
 * Mer om DOM-manipulering / Fördjupning i JavaScript
+* Template Literals / Stränghantering
 * ES6 arrow function  `=>`
 * Context
 * `setTimeout` / `setInterval`
+
+##### Länkar
+
+* [Template Literals](https://css-tricks.com/template-literals/)
+* [Scope & Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+* [Understanding `this` in JavaScript](http://unschooled.org/2012/03/understanding-javascript-this/)
+* [The Javascript Guide to Objects, Functions, Scope, Prototypes and Closures](http://hangar.runway7.net/javascript/guide)
+* [setInterval](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+* [setTimeout](https://www.w3schools.com/jsref/met_win_settimeout.asp)
 
 #### Pass 6
 
@@ -127,10 +136,16 @@ __v.7__
 * Closures
 * Mer om object & arrayer
 
+##### Länkar
+* [JavaScript DOM Manipulation Methods ~ Plainjs.com](https://plainjs.com/javascript/manipulation/)
+* [The Javascript Guide to Objects, Functions, Scope, Prototypes and Closures](http://hangar.runway7.net/javascript/guide)
+* [YDKJ ~ Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
 #### Pass 7
 
 * Animering i CSS & JavaScript
-* **Dugga i grundläggande JavaScript**
+* Canvas
+* **Dugga i grundläggande JavaScript** 
 
 
 ---
@@ -138,7 +153,7 @@ __v.8__
 
 #### Pass 8
 
-* Eventuell fördjupning på de område smo behövs mer på
+* Eventuell fördjupning på de områden som behövs mer på
 
 #### Pass 9
 
