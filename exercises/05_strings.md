@@ -1,7 +1,7 @@
 # Stränghantering
 
-* [Gå till övningar](#ovningar)
-* [Gå till Lösningsförslag](#losningsforslag)
+* [Gå till övningar](#Övningar)
+* [Gå till Lösningsförslag](#lösningsförslag)
 
 ## Introduktion ~ Strängar
 Det datatyp som ni kommer hantera mest är `String`. Det mesta som syns på en hemsida är text eller länkar vilket i sin tur är strängar. Därför är det bra att hålla koll på hur man hanterar och manipulerar strängar. Strängar används även när man ska lägga till stora block med _HTML_ till DOMen med [`innerHTML`](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) samt [`insertAdjacentHTML`](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML).
