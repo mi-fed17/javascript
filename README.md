@@ -149,6 +149,13 @@ __v.7__
 * Canvas
 * **Dugga i grundläggande JavaScript** 
 
+##### Länkar
+
+* [https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+* [https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript)
+* [https://www.javascripting.com/animation/](https://www.javascripting.com/animation/)
+* [https://cssanimation.rocks/principles/](https://cssanimation.rocks/principles/)
+
 
 ---
 __v.8__
@@ -176,6 +183,17 @@ __v.9__
     * `setTimeout()` / `setInterval()`
 * Event loop kontra call stack
 * Hur JavaScript tolkas
+* `fetch()`
+* Promises & Callbacks
+
+##### Länkar
+
+* [setInterval](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+* [setTimeout](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+* [What The Heck is the Event Loop Anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [`fetch()`](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+* [Promises](https://developers.google.com/web/fundamentals/primers/promises)
+* [Promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
 #### Pass 12
 
@@ -183,9 +201,6 @@ __v.9__
  * Öppna API:er
  * Skillnad WebbAPI kontra API
 * REST: Representational State Transfer
-* `fetch()`
-
-* Promises & Callbacks
 * Kalla på publika API:er
 
 #### Pass 13
