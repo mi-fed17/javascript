@@ -140,6 +140,8 @@ __v.7__
 * [JavaScript DOM Manipulation Methods ~ Plainjs.com](https://plainjs.com/javascript/manipulation/)
 * [The Javascript Guide to Objects, Functions, Scope, Prototypes and Closures](http://hangar.runway7.net/javascript/guide)
 * [YDKJ ~ Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+* [https://stackoverflow.com/questions/111102/how-do-javascript-closures-work/111111#111111](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work/111111#111111)
+* [FunFunFunction - this & bind](https://www.youtube.com/watch?v=GhbhD1HR5vk)
 
 #### Pass 7
 
@@ -153,7 +155,7 @@ __v.8__
 
 #### Pass 8
 
-* Eventuell fördjupning på de områden som behövs mer på
+* Labbassistent Anton på plats
 
 #### Pass 9
 
