@@ -101,7 +101,7 @@ Grublak.speak();
 4. Lägg till i din funktion så att du gör __dubbel__ skada på monstret om du går en critical hit.
 
 
-### Slay all the monsters
+### Övning 6 - Slay all the monsters
 
 1. Skapa en array av olika monster, en array av objekt alltså.
 2. Loopa sedan igenom alla monster med din funktion. Antingen genom att ha en loop inuti funktionen eller genom att kalla på funktionen `slayTheMonster` i en loop.
