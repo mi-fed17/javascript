@@ -64,7 +64,7 @@ z = y;
 
 ```javascript
 function multiply(a, b, c){
-    return a * b + c;
+    return a * b * c;
 }
 ```
 
