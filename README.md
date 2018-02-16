@@ -155,6 +155,8 @@ __v.7__
 * [https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript)
 * [https://www.javascripting.com/animation/](https://www.javascripting.com/animation/)
 * [https://cssanimation.rocks/principles/](https://cssanimation.rocks/principles/)
+* [Animate in & out @ CodePen](https://codepen.io/jesperorb/pen/QQqBQG)
+* [Animate in & out @ CodePen](https://codepen.io/jesperorb/pen/bLYadB)
 
 
 ---
