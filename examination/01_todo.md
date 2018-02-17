@@ -16,7 +16,7 @@ Dina filer och din mapp måste heta enligt detta mönster vid inlämning annars 
     * 📄 `index.html`
     * 📄 `main.js`
     * 📁 `css` (även `sass` om du använder det)
-        * 📄 `main.css`
+        * 📄 `main.css`/`style.css` 
     * 📁 `images` (utifall du har några bilder)
     * 📄 `README.md`
 
