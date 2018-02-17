@@ -42,7 +42,6 @@ fornamn_efternamn_todo.zip
 
 [**Samma feedback som jag gav i PHP gäller för det mesta för JavaScript också, se igenom denna lista och ta till dig av det**](https://gist.github.com/jesperorb/9093e314bbaca9062cd481874dff81b0)
 
-* När man kommer till sidan så ska inga _todos_ visas.
 * Man ska kunna lägga till en ny _todo_ och då ska denna visas upp i en lista på sidan så att man tydligt ser att det är en todo som är oavklarad.
 * Man ska kunna radera en _todo_, då tas todon bort från listan.
 * Man ska kunna rensa alla _todos_, ta bort samtliga från sidan
@@ -50,7 +49,7 @@ fornamn_efternamn_todo.zip
 * Semantisk HTML-struktur och tydligt upplägg av kod i både CSS-filer samt JavaScript-filer.
 * Kommenterat på de ställen som kräver det. Förklara mer varför koden körs eller finns istället för vad den gör. Kommentarer är ett sätt att visa att det är du själv som har skrivit koden och är ett krav.
 * Tydligt namngivna funktioner och variabelnamn. Förkorta inte variabler eller funktionsnamn samt döp inte dessa variabler och funktioner till något som bara du förstår.
-* Du validerar din JavaScript kod med hjälp av verktyg som [jslinst.com](http://www.jslint.com/) eller liknande tjänst.
+* Du validerar din JavaScript kod med hjälp av verktyg som [http://esprima.org/demo/validate.html](http://esprima.org/demo/validate.html) eller liknande tjänst.
 
 ## Krav för VG
 
