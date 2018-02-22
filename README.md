@@ -215,9 +215,9 @@ __v.10__
 
 #### Pass 14
 
-* `async/await`
 * `Promise.All`
 * Skapa egna promises
+* Kalla på API.
 
 #### Pass 15
 
@@ -230,11 +230,13 @@ __v.11__
 #### Pass 16
 
 * Kalla på eget API
-* Handledning
+* Handledning med inlämningsuppgiften
 
 #### Pass 17
 
 * Handledning för inlämningsuppgiften
+
+**Inlämning av examinerande individuell uppgift 15/3**
 
 ---
 __v.12__
@@ -275,11 +277,13 @@ __v.14__
 * Funktionell programmering
     * Higher Order functions
     * Currying
+* Handledning med inlämningsuppgiften
 
 #### Pass 23
 
 * Handledning med inlämningsuppgiften
 
+**Inlämning av examinarade individuell uppgift 5/4**
 
 ---
 __v.15__
@@ -299,7 +303,6 @@ __v.15__
 * Byggverktyg
     * `webpack`
     * `gulp` 
-    * övriga som ingen använder :D
 
 ---
 __v.16__
@@ -307,7 +310,6 @@ __v.16__
 #### Pass 26
 
 * Byggverktyg forts.
-
 
 #### Pass 27
 
@@ -329,6 +331,8 @@ __v.17__
 
 * Deploy to produktion med Node (Heroku)
 * Handledning med inlämningsuppgiften
+
+**Inlämning av examinerande inlämningsuppgift denna vecka: 26/4**
 
 ---
 __v.18__
