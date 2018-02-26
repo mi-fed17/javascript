@@ -36,7 +36,7 @@ http://fed17.herokuapp.com/top-movies?_limit=20
 ```
 Lista sedan upp dessa filmer som kommer tillbaka som en lista i DOMen med namn IMDB-betyg. Samma sak som med todos-uppgiften men här måste vi vänta på svaret från databasen. **Kom ihåg att värdet som kommer tillbaka är JSON och måste göras om till JavaScript**
 2. Lista även upp varje films genres som ytterligare en lista eller med valfri styling, bara så att det är tydligt att det är filmens genres.
-3. Till varje film finns även ett antal relaterade filmer som är baserade på vad användarna som gillat den nuvarande filmen mer har gillat för filmer, eller filmer som är likartade. Lista även upp dessa filmer eller de 3 första relaterade filmerna i en lista eller på något sätt så att det är tydligt att de relaterade filmerna hör till en viss film.
+3. Till varje film finns även ett antal relaterade filmer(`alsoLiked`) som är baserade på vad användarna som gillat den nuvarande filmen mer har gillat för filmer, eller filmer som är likartade. Lista även upp dessa filmer eller de 3 första relaterade filmerna i en lista eller på något sätt så att det är tydligt att de relaterade filmerna hör till en viss film.
 
 ### Övning - todos
 
