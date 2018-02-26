@@ -205,10 +205,27 @@ __v.9__
 * REST: Representational State Transfer
 * Kalla på publika API:er
 
+##### Länkar
+
+* [**Public APIs** by _toddmotto_ @ GitHub](https://github.com/toddmotto/public-apis)
+* [**Public APIs** by _abhishekbanthia_ @ GitHub](https://github.com/abhishekbanthia/Public-APIs)
+* [Programmable Web API Directory](https://www.programmableweb.com/category/all/apis)
+* [API-katalogen](http://apikatalogen.se/)
+* [http://www.restapitutorial.com/](http://www.restapitutorial.com/)
+
 #### Pass 13
 
 * Promises & Callbacks
+* XMLHttpRequest & `$.ajax()`
 * Kalla på publika API:er
+
+##### Länkar
+
+* [`fetch()`](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+* [Promises](https://developers.google.com/web/fundamentals/primers/promises)
+* [Promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+* [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+
 
 ---
 __v.10__
@@ -217,7 +234,7 @@ __v.10__
 
 * `Promise.All`
 * Skapa egna promises
-* Kalla på API.
+* Integrera med PHP
 
 #### Pass 15
 
