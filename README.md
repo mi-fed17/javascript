@@ -222,9 +222,14 @@ __v.9__
 ##### Länkar
 
 * [`fetch()`](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+* [callbackhell.com](http://callbackhell.com/)
 * [Promises](https://developers.google.com/web/fundamentals/primers/promises)
 * [Promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+* [**Promisees - Promise-visualisering**](https://bevacqua.github.io/promisees/)
 * [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+* [Arrow Functions in JavaScript ~ Fun Fun Function @ YouTube](https://www.youtube.com/watch?v=6sQDTgOqh-I)
+* [Destructuring @ Hackernoon](https://hackernoon.com/getting-to-grips-with-es6-destructuring-e5b5ddb34990)
+* [Default Parameters @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 
 
 ---
@@ -232,9 +237,15 @@ __v.10__
 
 #### Pass 14
 
-* `Promise.All`
-* Skapa egna promises
+* `Promise.all` / `Promise.race`
 * Integrera med PHP
+* Kalla på eget API
+
+###### Länkar
+
+* [Promise.all @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
+* 
+
 
 #### Pass 15
 
@@ -246,7 +257,6 @@ __v.11__
 
 #### Pass 16
 
-* Kalla på eget API
 * Handledning med inlämningsuppgiften
 
 #### Pass 17
