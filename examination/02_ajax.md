@@ -26,7 +26,7 @@ Du får använda `fetch` eller `XMLHttpRequest` för att hämta informationen fr
 
 Dina filer och din mapp **måste** heta enligt detta mönster vid inlämning annars får du automatiskt en försenad inlämning och du får lämna in en komplettering.
 
-* 📁 `fornamn_efternamn_todo`
+* 📁 `fornamn_efternamn_ajax`
     * 📄 `index.html`
     * 📁 `js`/`scripts`
         * 📄 `main.js`
