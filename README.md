@@ -239,18 +239,30 @@ __v.10__
 
 * `Promise.all` / `Promise.race`
 * Integrera med PHP
-* Kalla på eget API
+* PHP-proxy för att fixa CORS-error
+* Skapa och kalla på eget öppet API.
 
 ###### Länkar
 
 * [Promise.all @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 * 
+* [`json_encode` @ PHP.net](http://php.net/manual/en/function.json-encode.php)
+* [`json_decode` @ PHP.net](http://php.net/manual/en/function.json-decode.php)
+* [`file_get_contents` @ PHP.net](http://php.net/manual/en/function.file-get-contents.php)
+* [Get JSON with cURL](https://stackoverflow.com/a/15617547/5836872)
+* [Proxy Server @ Wikipedia](https://en.wikipedia.org/wiki/Proxy_server)
 
 
 #### Pass 15
 
+* `async / await`
 * Säkerhet
-* **CORS**
+
+##### Länkar
+
+* [async function @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+* [Async examples @ javascript.info](https://javascript.info/async-await)
+* [Async await - 6 reasons @ Hackernoon](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 ---
 __v.11__
@@ -275,11 +287,24 @@ __v.12__
 * Vad är ett Designmönster
 * Vilka mönster kan vi applicera på JavaScript
 * Olika typer av designmönster
+* Module Pattern
+
+###### Länkar
+
+* [JavScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Design Patterns: Module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+* [Software Design Patterns @ Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 #### Pass 19
 
-* Module Pattern
 * Constructor Pattern
+* Prototype
+
+###### Länkar
+
+* [A plain english guide to prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+* [JavaScript and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+* [Prototypes in JavaScript](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
 
 ---
 __v.13__
@@ -290,11 +315,21 @@ __v.13__
 * Inheritance vs. Composition
 * `class`
 
+###### Länkar
+
+* [Classes @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [Classes @ Javacript.info](https://javascript.info/class)
+
 #### Pass 21
 
 * Objektorienterade mönster i JavaScript
 * Inheritance vs. Composition
 * `extends`
+
+##### Länkar
+
+* [Classes @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [Classes @ Javacript.info](https://javascript.info/class)
 
 ---
 __v.14__
@@ -306,11 +341,17 @@ __v.14__
     * Currying
 * Handledning med inlämningsuppgiften
 
+###### Länkar
+
+* [A dirt simple introduction to higher order functions](https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056)
+* [Mastering the Interview: What is functional programming])(https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+
+
 #### Pass 23
 
 * Handledning med inlämningsuppgiften
 
-**Inlämning av examinarade individuell uppgift 5/4**
+**Inlämning av examinerade individuell uppgift 5/4**
 
 ---
 __v.15__
@@ -381,7 +422,6 @@ __v.19__
 #### Pass 32
 
 * Bibliotek & ramverk
-
 
 
 #### Pass 33
