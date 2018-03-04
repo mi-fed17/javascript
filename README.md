@@ -237,15 +237,15 @@ __v.10__
 
 #### Pass 14
 
-* `Promise.all` / `Promise.race`
+
 * Integrera med PHP
 * PHP-proxy för att fixa CORS-error
 * Skapa och kalla på eget öppet API.
 
 ###### Länkar
 
-* [Promise.all @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
-* 
+
+* [How to Use JSON Data with PHP or JavaScript](https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/)
 * [`json_encode` @ PHP.net](http://php.net/manual/en/function.json-encode.php)
 * [`json_decode` @ PHP.net](http://php.net/manual/en/function.json-decode.php)
 * [`file_get_contents` @ PHP.net](http://php.net/manual/en/function.file-get-contents.php)
@@ -255,11 +255,13 @@ __v.10__
 
 #### Pass 15
 
+* `Promise.all` / `Promise.race`
 * `async / await`
 * Säkerhet
 
 ##### Länkar
 
+* [Promise.all @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 * [async function @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [Async examples @ javascript.info](https://javascript.info/async-await)
 * [Async await - 6 reasons @ Hackernoon](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
