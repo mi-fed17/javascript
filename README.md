@@ -31,6 +31,7 @@
 * [MDN ~ Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [JavScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript vs PHP differences ~ Lullabot](https://www.lullabot.com/articles/learning-javascript-from-php-a-comparison)
+* [javascript.info](https://javascript.info/)
 
 #### Länkar
 
@@ -261,6 +262,7 @@ __v.10__
 
 ##### Länkar
 
+* [Promises, Async/Await @ javascript.info](https://javascript.info/async)
 * [Promise.all @ MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 * [async function @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [Async examples @ javascript.info](https://javascript.info/async-await)
