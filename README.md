@@ -301,14 +301,13 @@ __v.12__
 
 #### Pass 19
 
-* Constructor Pattern
-* Prototype
+* Module Pattern
+* Revealing Module Pattern
 
 ###### Länkar
 
-* [A plain english guide to prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
-* [JavaScript and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-* [Prototypes in JavaScript](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
+* [JavaScript Design Patterns: Module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+* [http://adripofjavascript.com/blog/drips/understanding-the-module-pattern-in-javascript.html](http://adripofjavascript.com/blog/drips/understanding-the-module-pattern-in-javascript.html)
 
 ---
 __v.13__
@@ -318,9 +317,14 @@ __v.13__
 * Objektorienterade mönster i JavaScript
 * Inheritance vs. Composition
 * `class`
+* Constructor Pattern
+* Prototype
 
 ###### Länkar
 
+* [A plain english guide to prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+* [JavaScript and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+* [Prototypes in JavaScript](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
 * [Classes @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [Classes @ Javacript.info](https://javascript.info/class)
 
