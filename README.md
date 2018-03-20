@@ -359,8 +359,6 @@ __v.14__
 
 * Handledning med inlämningsuppgiften
 
-**Inlämning av examinerade individuell uppgift 5/4**
-
 ---
 __v.15__
 
@@ -368,45 +366,48 @@ __v.15__
 
 #### Pass 24
 
-* Node & NPM
-* `npm`
-    * `require`
-    * `import/export`
-
+* Handledning med inlämningsuppgiften
 
 #### Pass 25
 
-* Byggverktyg
-    * `webpack`
-    * `gulp` 
+* Handledning med inlämningsuppgiften
+
+**Inlämning av examinerande gruppuppgift 12/4**
 
 ---
 __v.16__
 
 #### Pass 26
 
+* Node & NPM
+* `npm`
+    * `require`
+    * `import/export`
+
 * Byggverktyg forts.
 
 #### Pass 27
 
-* Transpilering
-* Babel
-* Polyfills
-* Minifiering
+* Byggverktyg
+    * `webpack`
+    * `gulp` 
 
 ---
 __v.17__
 
 #### Pass 28
 
-* Utforska Node
-* Sätta upp en mindre webbserver med Node
-
+* Transpilering
+* Babel
+* Polyfills
+* Minifiering
 
 #### Pass 29
 
 * Deploy to produktion med Node (Heroku)
 * Handledning med inlämningsuppgiften
+* Utforska Node
+* Sätta upp en mindre webbserver med Node
 
 **Inlämning av examinerande inlämningsuppgift denna vecka: 26/4**
 
