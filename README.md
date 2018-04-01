@@ -352,12 +352,8 @@ __v.14__
 ###### Länkar
 
 * [A dirt simple introduction to higher order functions](https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056)
-* [Mastering the Interview: What is functional programming])(https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+* [Mastering the Interview: What is functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
-
-#### Pass 23
-
-* Handledning med inlämningsuppgiften
 
 ---
 __v.15__
