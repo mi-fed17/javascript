@@ -33,6 +33,19 @@
 * [JavaScript vs PHP differences ~ Lullabot](https://www.lullabot.com/articles/learning-javascript-from-php-a-comparison)
 * [javascript.info](https://javascript.info/)
 
+### React
+
+* [React Documentation](https://facebook.github.io/react/)
+* [React Express](http://www.react.express/)
+* [React Aha Moments](https://dev.to/tylermcginnis/react-aha-moments)
+* [Awesome React :sunglasses:](https://github.com/enaqx/awesome-react)
+* [Useful React Links](https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md)
+* [Learn React with create-react-app (4 parts)](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc)
+* [React composition cheat sheet](https://github.com/xat/react-component-composition-cheatsheet)
+* [Gist: Patterns in React @ _jesperorb_](https://gist.github.com/jesperorb/33a84ea07295cb5a3bb30b180aa025d1)
+* [Handle CORS Client-side](https://gist.github.com/jesperorb/6ca596217c8dfba237744966c2b5ab1e)
+* [Common Errors in React](https://gist.github.com/jesperorb/a81fda804d89b15606b267a22aa946c8)
+
 #### Länkar
 
 Övriga länkar som kan vara bra att läsa igenom under kursens gång och samling av resurser där du kan lära dig mer om JavaScript.
@@ -368,7 +381,7 @@ __v.15__
 
 * Handledning med inlämningsuppgiften
 
-**Inlämning av examinerande gruppuppgift 12/4**
+**Inlämning av examinerande gruppuppgift 16/4 23.59**
 
 ---
 __v.16__
@@ -380,13 +393,25 @@ __v.16__
     * `require`
     * `import/export`
 
-* Byggverktyg forts.
+#### Länkar
+
+* [Modules @ ExploringJS](http://exploringjs.com/es6/ch_modules.html)
+* [Node](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/)
+* [require in Node](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
+* [Nodeschool.io](https://nodeschool.io/sv/)
 
 #### Pass 27
 
 * Byggverktyg
     * `webpack`
-    * `gulp` 
+    * `parcel`
+
+##### Länkar
+
+* [WEBPACK](https://webpack.js.org/)
+* [PARCEL](https://parceljs.org/)
+* [Webpack.academy](https://webpack.academy/)
 
 ---
 __v.17__
@@ -398,14 +423,28 @@ __v.17__
 * Polyfills
 * Minifiering
 
+##### Länkar
+
+* [Babel](https://babeljs.io/)
+* [A World Of JavaScript Transpilers](https://medium.com/front-end-hacking/a-world-of-javascript-transpilers-b3b7b880a1be)
+* [Polyfill](https://en.wikipedia.org/wiki/Polyfill_(programming))
+* [Minification](https://blog.stackpath.com/glossary/minification/)
+
 #### Pass 29
 
 * Deploy to produktion med Node (Heroku)
-* Handledning med inlämningsuppgiften
 * Utforska Node
 * Sätta upp en mindre webbserver med Node
+* Deploy till NOW
 
 **Inlämning av examinerande inlämningsuppgift denna vecka: 26/4**
+
+##### Länkar
+
+* [Heroku](https://www.heroku.com)
+* [Getting Started With Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+* [now](https://zeit.co/now)
+* [Express](https://expressjs.com/)
 
 ---
 __v.18__
@@ -414,61 +453,113 @@ __v.18__
 
 #### Pass 30
 
-* Bibliotek & ramverk
+* **React intro**
+    - `create-react-app`
+    - _Components_
+    - _Nested Components_
+    - _JSX_
+* **Props**
 
+##### Länkar
+
+* [Component and props @ _React Docs_](https://facebook.github.io/react/docs/components-and-props.html)
+* [JSX @ _React Docs_](https://facebook.github.io/react/docs/introducing-jsx.html)
+* [https://github.com/facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
 
 #### Pass 31
 
-* Bibliotek och ramverk
+* **STATE**
+* _Events_
+* _Event handling_
+* _JavaScript binding_
+
+##### Länkar
+
+* [State @ _React Docs_](https://facebook.github.io/react/docs/state-and-lifecycle.html)
+* [Handling Events @ _React Docs_](https://facebook.github.io/react/docs/handling-events.html)
 
 ---
 __v.19__
 
 #### Pass 32
 
-* Bibliotek & ramverk
+* _Fil & mappstruktur i React_
+* _Styling i React_
+* _Functional components_ vs. _Stateful Components_
 
+##### Länkar
+
+* [Components & Props @ _React Docs_](https://facebook.github.io/react/docs/components-and-props.html)
+* [Functional Components @ _React Docs_](https://facebook.github.io/react/docs/components-and-props.html)
+* [DOM Elements @ _React Docs_](https://facebook.github.io/react/docs/dom-elements.html)
 
 #### Pass 33
 
-* Bibliotek & ramverk
+* _Component Lifecycle_
+* _Async i React_
+* async _setState_
+
+##### Länkar
+
+* [Component Lifecycle @ _React Docs_](https://facebook.github.io/react/docs/react-component.html)
+* [Understanding Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 
 ---
 __v.20__
 
 #### Pass 34
 
-* React
-    * `create-react-app` 
-    * Components
-    * Nested Components
-* Props
+* _Controlled Inputs_ vs. _Uncontrolled inputs_
+* _Formulär i React_
+* _Inputhantering i React_
+* _Refs_
 
+##### Länkar
+
+* [Forms @ _React Docs_](https://facebook.github.io/react/docs/forms.html)
+* [Uncontrolled Components @ _React Docs_](https://facebook.github.io/react/docs/uncontrolled-components.html)
+* [Refs @ _React Docs_](https://facebook.github.io/react/docs/refs-and-the-dom.html)
 
 #### Pass 35
 
-* React
+* _PropTypes_
+* _Context_
+    * Exempel på när context kan användas 
+
+
+##### Länkar
+
+* [PropTypes @ _React Docs_](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+* [Context @ _React Docs_](https://facebook.github.io/react/docs/context.html)
 
 
 #### Pass 36
 
-* React
+* _Component Composition_
+* _Higher Order Components_
+
+##### Länkar
+
+* [Higher Order Components @ _React Docs_](https://facebook.github.io/react/docs/higher-order-components.html)
+* [React composition cheat sheet](https://github.com/xat/react-component-composition-cheatsheet)
+
 
 ---
 __v.21__
 
 #### Pass 37
 
-* React
-
+* Repetition
+* Tips & Tricks
+* Gotchas gällande React
 
 #### Pass 38
 
-* React
+* Handledning
 
 #### Pass 39
 
-* React
+* Handledning
 
 
 ---
@@ -477,15 +568,17 @@ __v.22__
 
 #### Pass 40
 
-* React
+* Handledning
 
 #### Pass 41
 
-* React
+* Handledning
 
 #### Pass 42
 
-* React
+* Presentation av uppgift
+
+**Inlämning av examinerande individuell/par uppgift.**
 
 
 
