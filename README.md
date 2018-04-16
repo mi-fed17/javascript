@@ -388,20 +388,11 @@ __v.16__
 
 #### Pass 26
 
-* Node & NPM
-* `npm`
-    * `require`
-    * `import/export`
-
-#### Länkar
-
-* [Modules @ ExploringJS](http://exploringjs.com/es6/ch_modules.html)
-* [Node](https://nodejs.org/en/)
-* [NPM](https://www.npmjs.com/)
-* [require in Node](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
-* [Nodeschool.io](https://nodeschool.io/sv/)
+Handledning med inlämningsuppgiften
 
 #### Pass 27
+
+* Presentation av projekt på förmiddagen
 
 * Byggverktyg
     * `webpack`
@@ -412,6 +403,12 @@ __v.16__
 * [WEBPACK](https://webpack.js.org/)
 * [PARCEL](https://parceljs.org/)
 * [Webpack.academy](https://webpack.academy/)
+* [Modules @ ExploringJS](http://exploringjs.com/es6/ch_modules.html)
+* [Node](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/)
+* [require in Node](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
+* [Nodeschool.io](https://nodeschool.io/sv/)
+
 
 ---
 __v.17__
@@ -437,7 +434,7 @@ __v.17__
 * Sätta upp en mindre webbserver med Node
 * Deploy till NOW
 
-**Inlämning av examinerande inlämningsuppgift denna vecka: 26/4**
+**Inlämning av examinerande uppgift denna vecka: 26/4**
 
 ##### Länkar
 
@@ -578,7 +575,7 @@ __v.22__
 
 * Presentation av uppgift
 
-**Inlämning av examinerande individuell/par uppgift.**
+**Inlämning av examinerande uppgift denna vecka.**
 
 
 
