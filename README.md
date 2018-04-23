@@ -426,6 +426,8 @@ __v.17__
 * [A World Of JavaScript Transpilers](https://medium.com/front-end-hacking/a-world-of-javascript-transpilers-b3b7b880a1be)
 * [Polyfill](https://en.wikipedia.org/wiki/Polyfill_(programming))
 * [Minification](https://blog.stackpath.com/glossary/minification/)
+* [package.json](https://docs.npmjs.com/files/package.json)
+* [NPM Documentation](https://docs.npmjs.com/)
 
 #### Pass 29
 
