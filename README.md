@@ -465,6 +465,9 @@ __v.18__
 * [JSX @ _React Docs_](https://facebook.github.io/react/docs/introducing-jsx.html)
 * [https://github.com/facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
 
+---
+__v.19__
+
 #### Pass 31
 
 * **STATE**
@@ -476,9 +479,6 @@ __v.18__
 
 * [State @ _React Docs_](https://facebook.github.io/react/docs/state-and-lifecycle.html)
 * [Handling Events @ _React Docs_](https://facebook.github.io/react/docs/handling-events.html)
-
----
-__v.19__
 
 #### Pass 32
 
@@ -492,6 +492,10 @@ __v.19__
 * [Functional Components @ _React Docs_](https://facebook.github.io/react/docs/components-and-props.html)
 * [DOM Elements @ _React Docs_](https://facebook.github.io/react/docs/dom-elements.html)
 
+---
+__v.20__
+
+
 #### Pass 33
 
 * _Component Lifecycle_
@@ -502,9 +506,6 @@ __v.19__
 
 * [Component Lifecycle @ _React Docs_](https://facebook.github.io/react/docs/react-component.html)
 * [Understanding Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
-
----
-__v.20__
 
 #### Pass 34
 
@@ -525,12 +526,14 @@ __v.20__
 * _Context_
     * Exempel på när context kan användas 
 
-
 ##### Länkar
 
 * [PropTypes @ _React Docs_](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
 * [Context @ _React Docs_](https://facebook.github.io/react/docs/context.html)
 
+
+---
+__v.21__
 
 #### Pass 36
 
@@ -542,10 +545,6 @@ __v.20__
 * [Higher Order Components @ _React Docs_](https://facebook.github.io/react/docs/higher-order-components.html)
 * [React composition cheat sheet](https://github.com/xat/react-component-composition-cheatsheet)
 
-
----
-__v.21__
-
 #### Pass 37
 
 * Repetition
@@ -556,13 +555,13 @@ __v.21__
 
 * Handledning
 
-#### Pass 39
-
-* Handledning
-
 
 ---
 __v.22__
+
+#### Pass 39
+
+* Handledning
 
 
 #### Pass 40
