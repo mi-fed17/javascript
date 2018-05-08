@@ -61,7 +61,7 @@ Om man inte vill använda `fetch` så finns det massa andra bibliotek: [axios](h
 
 För att underlätta testningen av att hämta information via API så ska vi i övningarna hämta data från detta temporära API:
 
-* [`https://fend-api.herokuapp.com/movies`](http://fed17.herokuapp.com/top-movies)
+* [`https://fed17.herokuapp.com/top-movies`](http://fed17.herokuapp.com/top-movies)
     *Om du inte vill ha ut alla typ 120 filmer så kan man sätta en limit i urlen: [`http://fed17.herokuapp.com/top-movies?_limit=20`](http://fed17.herokuapp.com/top-movies?_limit=20)
 
 API:et innehåller en array av objekt som är hämtad från IMDB:s databas. Ni ska rendera ut innehållet på er sida. Om ni vill t.ex. köra något css-ramverk så ladda ner det och importera det: `import './bootstrap.css` eller länka in CDN-länken via `public/index.html` som vanligt.
@@ -116,7 +116,7 @@ class SearchForm extends Component {
   }
 
   getDataFromApi = () => {
-    fetch('https://fend-api.herokuapp.com/movies?_limit=20')
+    fetch('https://fed17.herokuapp.com/top-movies?_limit=20')
       .then(response => response.json())
       .then(data => {
         //When we are sure we have the data
