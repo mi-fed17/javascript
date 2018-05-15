@@ -512,49 +512,32 @@ __v.20__
 * _Controlled Inputs_ vs. _Uncontrolled inputs_
 * _Formulär i React_
 * _Inputhantering i React_
-* _Refs_
+* _PropTypes_
+* [React composition cheat sheet](https://github.com/xat/react-component-composition-cheatsheet)
 
 ##### Länkar
 
 * [Forms @ _React Docs_](https://facebook.github.io/react/docs/forms.html)
 * [Uncontrolled Components @ _React Docs_](https://facebook.github.io/react/docs/uncontrolled-components.html)
 * [Refs @ _React Docs_](https://facebook.github.io/react/docs/refs-and-the-dom.html)
-
-#### Pass 35
-
-* _PropTypes_
-* _Context_
-    * Exempel på när context kan användas 
-
-##### Länkar
-
 * [PropTypes @ _React Docs_](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
-* [Context @ _React Docs_](https://facebook.github.io/react/docs/context.html)
-
 
 ---
 __v.21__
 
 #### Pass 36
 
-* _Component Composition_
-* _Higher Order Components_
-
-##### Länkar
-
-* [Higher Order Components @ _React Docs_](https://facebook.github.io/react/docs/higher-order-components.html)
-* [React composition cheat sheet](https://github.com/xat/react-component-composition-cheatsheet)
+* Handledning / eget arbete
 
 #### Pass 37
 
-* Repetition
-* Tips & Tricks
-* Gotchas gällande React
+* Eventuell repetition / Fördjupning
+* Handledning / eget arbete
 
 #### Pass 38
 
-* Handledning
-
+* Handledning / eget arbete
+* Anton på plats
 
 ---
 __v.22__
